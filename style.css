@@ -30,7 +30,7 @@ form{
 }
 main {
     display: flex;
-    height 324px;
+    height: 324px;
     flex-direction: row;
     justify-content: space-between;
 }
@@ -60,13 +60,20 @@ margin: 5px 0px;
 
 .contact-us > * {
     display: block;
-    margin: 6px; 0px;
+    margin: 6px; 
 }
 
 input {
     border: 0px;
     height: 30px;
 }
+
+.name-button {
+    border: 0px;
+    height: 30px;
+    width: 250px;
+}
+
 
 textarea {
     height: 80px;
