@@ -60,10 +60,10 @@ margin: 5px 0px;
 
 .contact-us > * {
     display: block;
-    margin: 6px; 
+    margin: 6px 0px; 
 }
 
-input {
+.button {
     border: 0px;
     height: 30px;
 }
